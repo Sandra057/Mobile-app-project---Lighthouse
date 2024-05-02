@@ -1,2 +1,7 @@
-# Mobile-app-project---Lighthouse
-Lighthouse is an investment app where startups or companies can find potential investors and vice-versa.
+# Light House 
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
